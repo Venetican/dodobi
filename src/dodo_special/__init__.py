@@ -1,0 +1,1 @@
+from dodo_special.dodo_special import dummy_class

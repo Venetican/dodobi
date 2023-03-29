@@ -2,9 +2,9 @@
 ![N|Dodo](https://i.ibb.co/3szjX94/1655966873796.jpg)
 ## Instalation
 ## Libraries
-**general_function**
+**dodo_general**
 Special classes with general classes for transforming pd.DataFrame
-**special_function**
+**dodo_special**
 Special classes with special classes for transforming pd.DataFrame
-**ds_function**
+**dodo_ds**
 Special classes for data science

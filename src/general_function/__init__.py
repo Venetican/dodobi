@@ -1,2 +1,0 @@
-from general_function.general_function import transform_table
-from general_function.general_function import transform_time
